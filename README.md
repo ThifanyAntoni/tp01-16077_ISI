@@ -18,7 +18,6 @@ Integrar dados fictícios de um estúdio de estética provenientes de CSV, JSON,
 ## Organização dos ficheiros
 
 - `doc/16077_doc.pdf`: relatório com link e QR Code do vídeo.
-- `doc/16077_doc.docx`: versão editável do relatório.
 - `dataintegration/16077_TP1_Estudio_ETL.knwf`: workflow KNIME exportado, incluindo dados internos e resultados executados.
 - `data/input/`: cópias de consulta das quatro fontes fictícias: marcacoes.csv, pagamentos.json, servicos.xml e clientes.sqlite.
 - `data/output/`: exemplos dos três CSV gerados na execução exportada.
