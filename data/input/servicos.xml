@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<servicos>
+  <servico>
+    <id_servico>S001</id_servico>
+    <nome_servico>Limpeza de pele</nome_servico>
+    <categoria>Facial</categoria>
+    <preco_base>50</preco_base>
+  </servico>
+  <servico>
+    <id_servico>S002</id_servico>
+    <nome_servico>Design de sobrancelhas</nome_servico>
+    <categoria>Sobrancelhas</categoria>
+    <preco_base>15</preco_base>
+  </servico>
+  <servico>
+    <id_servico>S003</id_servico>
+    <nome_servico>Lash lifting</nome_servico>
+    <categoria>Pestanas</categoria>
+    <preco_base>35</preco_base>
+  </servico>
+  <servico>
+    <id_servico>S004</id_servico>
+    <nome_servico>Drenagem corporal</nome_servico>
+    <categoria>Corporal</categoria>
+    <preco_base>50</preco_base>
+  </servico>
+  <servico>
+    <id_servico>S005</id_servico>
+    <nome_servico>Brow lamination</nome_servico>
+    <categoria>Sobrancelhas</categoria>
+    <preco_base>40</preco_base>
+  </servico>
+  <servico>
+    <id_servico>S006</id_servico>
+    <nome_servico>Depilacao a cera</nome_servico>
+    <categoria>Depilacao</categoria>
+    <preco_base>20</preco_base>
+  </servico>
+</servicos>
