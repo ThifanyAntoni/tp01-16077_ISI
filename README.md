@@ -66,4 +66,4 @@ Em cada linha da tabela integrada verifica-se valor_servico = total_pago + valor
 
 ## Limitações
 
-Dados fictícios, sem cancelamentos ou reembolsos. O workflow foi executado no computador de desenvolvimento e o conteúdo do KNWF foi inspecionado; deve ainda testar-se a importação e reexecução da cópia exportada. Não existem jobs externos, agendamento, API ou notificações automáticas.
+O workflow foi executado no computador de desenvolvimento. A cópia exportada foi importada e reexecutada após Reset no mesmo computador, terminando com todos os nós a verde. Não foi testada a execução em outro computador.
